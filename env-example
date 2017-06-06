@@ -1,0 +1,24 @@
+# ---- CONFIGURATION ----
+
+# The node you'd like to use
+steem_node=https://steemd.steemitdev.com
+
+# ---- ICO SETTINGS ----
+
+# The name of the ICO deposit account
+ico_account_donation=test-ico
+
+# The name of the ICO processed funds account
+ico_account_processed=test-team
+
+# The WIF Key for the witness account, used to sign transactions
+steem_wif=5YOURPRIVATEKEYFORTHEICOACCOUNTHERE
+
+# The block number when the ICO starts
+ico_block_start=12590000
+
+# The block number when the ICO ends
+ico_block_end=12600000
+
+# Which currency to accept
+ico_currency=STEEM
